@@ -1,2 +1,2 @@
-# Project-1
+# Capstone Project :Car accident severity 
 Final Capstone Project: Car accident severity 
